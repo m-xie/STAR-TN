@@ -13,3 +13,7 @@ The algorithm can be run using the ```segment-nerve.ipynb``` notebook. Example d
 * ```opencv-python```
 * ```alphashape```
 
+## Citation
+Xie ME*, Halbert-Elliott K*, Nair SK, Huang J, Yedavalli VS, Bettegowda C, Xu R. Application of sequential thresholding-based automated reconstruction of the trigeminal nerve (STAR-TN) in trigeminal neuralgia. World Neurosurgery (accepted, in press). 2023. (*equal contribution)
+
+
